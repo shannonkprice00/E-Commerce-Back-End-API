@@ -1,5 +1,4 @@
 const router = require('express').Router();
-// DO I NEED TO DO SOMETHING WITH THE PRODUCTTAG MODEL HERE???????????????????????
 const { Tag, Product, ProductTag } = require('../../models');
 
 // The `/api/tags` endpoint
