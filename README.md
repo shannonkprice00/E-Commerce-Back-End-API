@@ -19,7 +19,7 @@ Next, you will need to enter schema commands as well as install dependencies by 
 To quit the MySQL shell you can type "quit".
 
 ## Usage
-You can view a video demonstration of how to use this application [here](#). <br>
+You can view a video demonstration of how to use this application [here](https://drive.google.com/file/d/1_LSiqsXY6me9Rzqxd4yxlVGY7DXnK9KG/view?usp=share_link). <br>
 To run the program, use the following command from the root directory in the terminal:<br> `$ node server.js`<br> OR <br> `$ npm start` <br> The functionality of the application is demonstrated using Insomnia Core. You can find documentation on how to install Insomnia Core [here](https://docs.insomnia.rest/insomnia/install). If you need further information on how to use Insomnia Core, you can find the documentation [here](https://docs.insomnia.rest/insomnia/get-started). Using Insomnia Core, you can follow the appropriate api routes using the dropdown next to the address bar to GET, POST, PUT, and DELETE (read data, create data, update data, and delete data) and by updating the address according to the desired api route. <br>
 <br> <img src="./assets/images/screenshot2.png" style="border: 1px solid blue;" width=75% /> <br><br> 
 
